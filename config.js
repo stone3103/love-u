@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'dạ anh <3 ',
     mess: 'chương chương ',
     messDesc: 'Bây giờ lè mình yêu nhau được 381 ngày 2 mấy giờ gùi é ',
-    btnAccept: 'hihi',
+    btnAccept: 'hihi <3 ',
   
 }
