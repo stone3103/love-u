@@ -9,7 +9,7 @@ const CONFIG = {
     question:'bé hum buồn anh nữa á ',
     btnReply: ' trả lời ',
     reply: ' ',
-    mess: 'chương chương ',
+    mess: 'chương chương <3 ',
     messDesc: 'Bây giờ lè mình yêu nhau được 381 ngày 2 mấy giờ gùi é ',
     btnAccept: 'hihi',
   
